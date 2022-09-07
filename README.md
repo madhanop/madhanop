@@ -1,11 +1,11 @@
 <div align="center">
-   <h1>Hi there, I'm Reza</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33px"> </h1>
+   <h1>Hi there, I'm Madhan kumar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33px"> </h1>
 </div>
 
 ###
 
 <h3 align="center"> 
- A Backend Developer From Iran 🇮🇷</h3>
+  Aspiring data scientist</h3>
 
 ###
 
@@ -21,11 +21,11 @@
 <br />
 <p align="center">
 
- - <i>🌱🧑🏻‍💻 I'm currently learning Python & Django</i>
+ - <i>🌱🧑🏻‍💻 I'm currently learning data science</i>
  
  - <i>📫 How to reach me :</i>
    
- - 📧 rezasalimiofficial@gmail.com
+ - 📧 madhankumar67575@gmail.com
 
 ###
 
@@ -86,7 +86,7 @@
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ in Iran</p>
+<p align="center">Made with data science</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
